@@ -1,0 +1,383 @@
+PS C:\Users\hita6\OneDrive\Desktop\demo> python -u "c:\Users\hita6\OneDrive\Desktop\demo\BB84Ai\ai\train_lstm.py"
+2025-03-21 00:20:09.024358: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-21 00:20:16.860205: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNNLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "c:\Users\hita6\OneDrive\Desktop\demo\BB84Ai\ai\train_lstm.py", line 6, in <module>
+    from utils.bb84_simulation import gencd C:\Users\hita6\OneDrive\Desktop\demo\BB84Ai
+>> python ai\train_lstm.pydule named 'utils'
+>> C:\Users\hita6\OneDrive\Desktop\demo>
+2025-03-21 00:22:01.155941: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-21 00:22:06.991364: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Traceback (most recent call last):
+  File "C:\Users\hita6\OneDrive\Desktop\demo\BB84Ai\ai\train_lstm.py", line 6, in <module>
+    from utils.bb84_simulation import generate_bb84_qubits, introduce_data_loss
+ModuleNotFoundError: No module named 'utils'
+PS C:\Users\hita6\OneDrive\Desktop\demo\BB84Ai> cd C:\Users\hita6\OneDrive\Desktop\demo\BB84Ai
+>>
+PS C:\Users\hita6\OneDrive\Desktop\demo\BB84Ai> python ai\train_lstm.py
+
+2025-03-21 00:22:36.799773: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-21 00:22:40.577258: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABpy", line 6, in <module>
+    from utils.bb84_simulation import generate_bb84_qubits, introduce_data_loss
+ModuleNotFoundError: No module named 'utils'
+PS C:\Users\hita6\OneDrive\Desktop\demo\BB84Ai>        
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ita6\OneDrive\Desktop\demo). Please verify you invoked Maven from the correct directory. -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:     
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException
+PS C:\Users\hita6\OneDrive\Desktop\demo> mvn archetype:generate -DgroupId=com.example -DartifactId=demo -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+>>
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.123 s
+[INFO] Finished at: 2025-03-21T00:54:01+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] The goal you specified requires a project to execute but there is no POM in this directory (C:\Users\hita6\OneDrive\Desktop\demo). Please verify you invoked Maven from the correct directory. -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:     
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException
+PS C:\Users\hita6\OneDrive\Desktop\demo> -X mvn archetype:generate -DgroupId=com.example -DartifactId=demo -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+>>
+-X : The term '-X' is not recognized as the name of a 
+cmdlet, function, script file, or operable program.    
+Check the spelling of the name, or if a path was       
+included, verify that the path is correct and try      
+again.
+At line:1 char:1
++ -X mvn archetype:generate -DgroupId=com.example      
+-DartifactId=demo -Da ...
++ ~~
+    + CategoryInfo          : ObjectNotFound: (-X:Str  
+   ing) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundExceptio  
+   n
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> javac QuantumReceiver.java                                           
+error: file not found: QuantumReceiver.java            
+Usage: javac <options> <source files>
+use --help for a list of possible options
+PS C:\Users\hita6\OneDrive\Desktop\demo> javac QuantumReceiver.java
+error: file not found: QuantumReceiver.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+PS C:\Users\hita6\OneDrive\Desktop\demo> mvn clean install
+>>
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\hita6\OneDrive\Desktop\demo\pom.xml: Duplicated tag: 'dependencies' (position: START_TAG seen ...</dependencies>\r\n  <dependencies>... @18:17)  @ line 18, column 17
+ @
+[ERROR] The build could not read 1 project -> [Help 1] 
+[ERROR]
+[ERROR]   The project  (C:\Users\hita6\OneDrive\Desktop\demo\pom.xml) has 1 error
+[ERROR]     Non-parseable POM C:\Users\hita6\OneDrive\Desktop\demo\pom.xml: Duplicated tag: 'dependencies' (position: START_TAG seen ...</dependencies>\r\n  <dependencies>... @18:17)  @ line 18, column 17 -> [Help 2]    
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:     
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[ERROR] [Help 2] http://cwiki.apache.org/confluence/display/MAVEN/ModelParseException
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar (335 kB at 596 kB/s)
+[WARNING] 
+java.lang.ClassNotFoundException: QuantumKeyReceiver   
+    at java.net.URLClassLoader.findClass (URLClassLoader.java:445)
+    at java.lang.ClassLoader.loadClass (ClassLoader.java:595)
+    at java.lang.ClassLoader.loadClass (ClassLoader.java:528)
+    at org.codehaus.mojo.exec.ExecJavaMojo$1.run (ExecJavaMojo.java:246)
+    at java.lang.Thread.run (Thread.java:1575)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.018 s
+[INFO] Finished at: 2025-03-24T20:55:29+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project demo: An exception occured while executing the Java class. QuantumKeyReceiver -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:     
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+PS C:\Users\hita6\OneDrive\Desktop\demo> javac QuantumKeyReceiver.java
+QuantumKeyReceiver.java:3: error: package ai.onnxruntime does not exist
+import ai.onnxruntime.OnnxTensor;
+                     ^
+QuantumKeyReceiver.java:4: error: package ai.onnxruntime does not exist
+import ai.onnxruntime.OrtEnvironment;
+                     ^
+QuantumKeyReceiver.java:5: error: package ai.onnxruntime does not exist
+import ai.onnxruntime.OrtException;
+                     ^
+QuantumKeyReceiver.java:6: error: package ai.onnxruntime does not exist
+import ai.onnxruntime.OrtSession;
+                     ^
+QuantumKeyReceiver.java:11: error: cannot find symbol
+    public static int[] aiErrorCorrection(int[] key) throws OrtException {
+                                                       
+     ^
+  symbol:   class OrtException
+  location: class QuantumKeyReceiver
+QuantumKeyReceiver.java:12: error: cannot find symbol
+        OrtEnvironment env = OrtEnvironment.getEnvironment();
+        ^
+  symbol:   class OrtEnvironment
+  location: class QuantumKeyReceiver
+QuantumKeyReceiver.java:12: error: cannot find symbol  
+        OrtEnvironment env = OrtEnvironment.getEnvironment();
+                             ^
+  symbol:   variable OrtEnvironment
+  location: class QuantumKeyReceiver
+QuantumKeyReceiver.java:13: error: cannot find symbol  
+        OrtSession session = env.createSession("qkd_ai_model.onnx", new OrtSession.SessionOptions());
+        ^
+  symbol:   class OrtSession
+  location: class QuantumKeyReceiver
+QuantumKeyReceiver.java:13: error: package OrtSession does not exist
+        OrtSession session = env.createSession("qkd_ai_model.onnx", new OrtSession.SessionOptions());
+                                                       
+                           ^
+QuantumKeyReceiver.java:20: error: cannot find symbol
+        OnnxTensor inputTensor = OnnxTensor.createTensor(env, inputKey);
+        ^
+  symbol:   class OnnxTensor
+  location: class QuantumKeyReceiver
+QuantumKeyReceiver.java:20: error: cannot find symbol  
+        OnnxTensor inputTensor = OnnxTensor.createTensor(env, inputKey);
+                                 ^
+  symbol:   variable OnnxTensor
+  location: class QuantumKeyReceiver
+QuantumKeyReceiver.java:21: error: package OrtSession does not exist
+        OrtSession.Result result = session.run(Collections.singletonMap("input", inputTensor));
+                  ^
+12 errors
+PS C:\Users\hita6\OneDrive\Desktop\demo> 
+ *  History restored 
+
+PS C:\Users\hita6\OneDrive\Desktop\demo> python train_.py
+2025-03-27 10:03:31.154256: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-27 10:03:36.065517: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+C:\Python312\Lib\site-packages\keras\src\layers\core\masking.py:48: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+2025-03-27 10:03:49.693740: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+Epoch 1/10
+2025-03-27 10:03:57.314429: E tensorflow/core/util/util.cc:131] oneDNN supports DT_BOOL only on platforms with AVX-512. Falling back to the default Eigen-based implementation if present.
+32/32 ━━━━━━━━━━━━━━━━━━━━ 8s 12ms/step - accuracy: 0.0842 - loss: 0.6910
+Epoch 2/10
+32/32 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - accuracy: 0.4297 - loss: 0.6749 
+Epoch 3/10
+32/32 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - accuracy: 0.3362 - loss: 0.6439
+Epoch 4/10
+32/32 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - accuracy: 0.3683 - loss: 0.6314
+Epoch 5/10
+32/32 ━━━━━━━━━━━━━━━━━━━━ 0s 10ms/step - accuracy: 0.3564 - loss: 0.6224
+Epoch 6/10
+32/32 ━━━━━━━━━━━━━━━━━━━━ 0s 10ms/step - accuracy: 0.3790 - loss: 0.6035
+Epoch 7/10
+32/32 ━━━━━━━━━━━━━━━━━━━━ 0s 10ms/step - accuracy: 0.3801 - loss: 0.5846
+Epoch 8/10
+32/32 ━━━━━━━━━━━━━━━━━━━━ 0s 10ms/step - accuracy: 0.4537 - loss: 0.5781
+Epoch 9/10
+32/32 ━━━━━━━━━━━━━━━━━━━━ 0s 10ms/step - accuracy: 0.4426 - loss: 0.5594
+Epoch 10/10
+32/32 ━━━━━━━━━━━━━━━━━━━━ 0s 10ms/step - accuracy: 0.4785 - loss: 0.5526
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+✅ LSTM Model trained and saved.
+PS C:\Users\hita6\OneDrive\Desktop\demo> python convert_model.py
+2025-03-27 10:04:13.248910: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floatingTo enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+✅ Model saved at: ..\demo\qkd_ai_model.h5
+PS C:\Users\hita6\OneDrive\Desktop\demo>
+
+
+
+
+
+
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+✅ Model saved at: ..\demo\qkd_ai_model.h5
+PS C:\Users\hita6\OneDrive\Desktop\demo>
+
+
+
+
+
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+✅ Model saved at: ..\demo\qkd_ai_model.h5
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommenTo enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommenTo enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+✅ Model saved at: ..\demo\qkd_ai_model.h5
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+✅ Model saved at: ..\demo\qkd_ai_model.h5
+PS C:\Users\hita6\OneDrive\Desktop\demo>
+
+
+
+
+
+
+
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+✅ Model saved at: ..\demo\qkd_ai_model.h5
+PS C:\Users\hita6\OneDrive\Desktop\demo>
+
+
+
+
+
+
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.     
+C:\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+✅ Model saved at: ..\demo\qkd_ai_model.h5
+PS C:\Users\hita6\OneDrive\Desktop\demo>
+
+
+
+
+models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+✅ Model saved at: ..\demo\qkd_ai_model.h5
+PS C:\Users\hita6\OneDrive\Desktop\demo>
