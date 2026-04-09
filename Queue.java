@@ -14,7 +14,7 @@ class Que {
     Node front;
     Node rear;
 
-    // ENQUEUE (add at rear)
+    // ENQUEUE (add at rear/back end)
     public void add(int value) {
         Node newNode = new Node(value);
         if (rear == null) {
