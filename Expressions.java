@@ -49,6 +49,7 @@ public class Expressions {
 		return ans;
 	}
 	
+	// use getters and setters to access private variables
 	
 	private static int priority(Character c) {
 		if(c=='^') {
