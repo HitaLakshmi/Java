@@ -24,7 +24,7 @@ class pra{
 	public static void main(String[] args){
 		
 	}
-	
+	//paranthesis matching
 	public void balance(String st,int i,int j){
 		Stack<Character> sta=new Stack<>();
 		st.substring(i,j);
