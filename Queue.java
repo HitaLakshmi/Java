@@ -57,7 +57,6 @@ class Que {
 }
 
 public class Queue {
-	
     public static void main(String[] args) {
         Que q = new Que();
         q.add(8);
