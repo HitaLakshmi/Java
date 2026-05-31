@@ -1,5 +1,4 @@
 package practice;
-
 class Node {
     int value;
     Node next;
@@ -9,7 +8,6 @@ class Node {
         this.next = null;
     }
 }
-
 class Que {
     Node front;
     Node rear;
